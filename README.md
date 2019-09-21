@@ -11,3 +11,5 @@ Politics: In political field, it is used to keep track of political view, to det
 between statements and actions at the government level. It can be used to predict election results as well! 
 Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena,for the spotting of potentially
 dangerous situations.
+
+Here I specifically use twitter data for sentimental analysis by using run time data through Twitter API(TWEEPY).

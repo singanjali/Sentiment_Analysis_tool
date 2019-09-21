@@ -1,4 +1,4 @@
-# Sentimental_Analysis_tool
+# Sentiment_Analysis_tool
 
 What is sentiment analysis? 
 Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive,

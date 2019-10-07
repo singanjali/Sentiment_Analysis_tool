@@ -1,3 +1,5 @@
+#realtime sentiment analisys of tweets
+
 import re
 import tweepy
 import matplotlib.pyplot as plt
